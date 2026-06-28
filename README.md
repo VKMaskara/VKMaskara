@@ -22,10 +22,10 @@
 
 Sou desenvolvedor Full Stack em formação, com foco em construir sistemas completos — da modelagem de dados à interface.
 
-Atualmente cursando:
+Formação:
 
 🎓 Técnico em Desenvolvimento de Sistemas — ETEC  
-🎓 Engenharia de Software — UNOPAR  
+🎓 Engenharia de Software — UNOPAR  (cursando 2º Semestre)
 
 Minha especialidade está em:
 
@@ -91,7 +91,7 @@ Sistema de otimização de rotas desenvolvido em Node.js.
 🔹 Integração com Google Maps APIs  
 🔹 Pipeline de planilhas XLSX  
 🔹 Normalização de endereços  
-🔹 Implementação do algoritmo TSP  
+🔹 Implementação do algoritmo TSP  + 2-Opt
 🔹 Redução real de deslocamento e combustível  
 
 Esse projeto demonstra:
