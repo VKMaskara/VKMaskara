@@ -1,186 +1,87 @@
-<!-- ===================== BANNER ===================== -->
+# Olá, eu sou o Vitor Kauê 👋
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Vitor%20Kauê&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+**Desenvolvedor Back-end em formação | Node.js | JavaScript | APIs REST**
 
-<!-- ===================== TYPING EFFECT ===================== -->
+Sou Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software. Desenvolvo projetos próprios para aplicar, na prática, fundamentos de arquitetura de software, modelagem de dados, integração de APIs e organização de regras de negócio.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+in+Progress;Building+Scalable+Systems;APIs+%7C+Architecture+%7C+Product+Mindset;Future+Software+Engineer" />
-</p>
+Atualmente, meu foco principal está no desenvolvimento Back-end com **Node.js, Express.js, PostgreSQL, Knex.js e APIs REST**, além de conhecimentos em React para construção de aplicações Full Stack.
 
----
+## Projetos em destaque
 
-<h3 align="center">
-⚡ Engenharia de Software + Mentalidade de Produto + Visão de Negócio
-</h3>
+### Navalhou
 
----
+Sistema de agendamento e gerenciamento de barbearias, desenvolvido a partir do levantamento de uma necessidade real.
 
-## 👨🏻‍💻 Sobre Mim
+O projeto contempla:
 
-Sou desenvolvedor Full Stack em formação, com foco em construir sistemas completos — da modelagem de dados à interface.
+* levantamento e documentação de requisitos;
+* definição de regras de negócio e casos de uso;
+* modelagem de banco de dados;
+* arquitetura de API REST;
+* gerenciamento de barbearias, profissionais, clientes, serviços e agendamentos;
+* agenda individual por profissional.
 
-Formação:
+**Tecnologias:** Node.js, Express.js, PostgreSQL, Knex.js, JavaScript e React.
 
-🎓 Técnico em Desenvolvimento de Sistemas — ETEC  
-🎓 Engenharia de Software — UNOPAR  (cursando 2º Semestre)
+### R.O.M.A — Rotas Otimizadas de Milha Ágil
 
-Minha especialidade está em:
+Sistema web para criação, gestão e otimização de rotas de entrega.
 
-- Arquitetura de APIs REST
-- Modelagem e normalização de dados
-- Integração com APIs externas
-- Lógica algorítmica aplicada
-- Estruturação escalável de projetos
+O projeto inclui:
 
-Eu não apenas escrevo código.  
-Eu penso em arquitetura, eficiência e produto.
+* API REST com Node.js e Express.js;
+* arquitetura organizada em controllers, services, models e routes;
+* autenticação com JWT;
+* banco de dados SQLite utilizando Knex.js;
+* importação de planilhas;
+* integração com serviços de mapas e geolocalização;
+* aplicação de algoritmos de otimização de rotas.
 
----
+**Tecnologias:** Node.js, Express.js, Knex.js, SQLite, JWT, JavaScript, Bootstrap e Leaflet.
 
-# 🚀 Tech Stack
+### Software Engineering Roadmap
 
-## 🔹 Back-end
+Repositório no qual documento minha evolução nos fundamentos de Engenharia de Software.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,mysql,sequelize,prisma" />
-</p>
+Os estudos são organizados em:
 
-✔ APIs REST  
-✔ MVC Pattern  
-✔ SQL & Modelagem de Dados  
-✔ Processamento XLSX  
-✔ JSON Data Pipelines  
-✔ Algoritmos (TSP – Nearest Neighbor)
+* teoria;
+* exemplos;
+* exercícios;
+* desafios práticos;
+* revisões semanais.
 
----
+## Tecnologias
 
-## 🔹 Front-end
+**Back-end**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,js" />
-</p>
+JavaScript • Node.js • Express.js • APIs REST • Knex.js
 
-✔ Consumo de APIs  
-✔ Componentização  
-✔ Manipulação de estados  
-✔ Estruturação de interfaces funcionais  
+**Front-end**
 
----
+HTML5 • CSS3 • React • Bootstrap
 
-## 🔹 Infraestrutura & Cloud
+**Banco de dados**
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,azure" />
-</p>
+PostgreSQL • MySQL • SQLite • MongoDB • SQL • Modelagem de Dados
 
-✔ Versionamento estratégico  
-✔ Fundamentos TCP/IP (CCNA7)  
-✔ Introdução à Cloud  
+**Ferramentas e fundamentos**
 
----
+Git • GitHub • Arquitetura MVC • Engenharia de Software • Integração de APIs • TCP/IP
 
-# 🧩 Projetos Estratégicos
+## Formação
 
-## 📦 R.O.M.A — Motor Logístico Inteligente
+**Engenharia de Software**
+Universidade Pitágoras Unopar Anhanguera — cursando
 
-Sistema de otimização de rotas desenvolvido em Node.js.
+**Técnico em Desenvolvimento de Sistemas**
+ETEC José Miguel Soares — concluído
 
-🔹 Integração com Google Maps APIs  
-🔹 Pipeline de planilhas XLSX  
-🔹 Normalização de endereços  
-🔹 Implementação do algoritmo TSP  + 2-Opt
-🔹 Redução real de deslocamento e combustível  
+## Objetivo profissional
 
-Esse projeto demonstra:
+Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento Back-end ou Full Stack, na qual eu possa contribuir com projetos reais e continuar evoluindo em Node.js, APIs, bancos de dados e Engenharia de Software.
 
-⚙ Backend real  
-📊 Lógica matemática aplicada  
-🌍 Integração com serviços externos  
-🏗 Organização escalável  
+## Contato
 
----
-
-## 🏋️ TrackGym — SaaS em Construção
-
-Plataforma para controle de treino e dieta com foco em:
-
-• Gestão de progresso  
-• Organização de treinos  
-• Estrutura modular de componentes  
-• Arquitetura reutilizável  
-• Mentalidade SaaS  
-
-O objetivo é criar um sistema completo, escalável e orientado a experiência do usuário.
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VKMaskara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=VKMaskara&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VKMaskara&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🧠 Mentalidade Profissional
-
-Minha experiência empreendedora me ensinou:
-
-✔ Resolver problemas reais  
-✔ Pensar como negócio  
-✔ Organizar processos  
-✔ Trabalhar com autonomia  
-✔ Evoluir constantemente  
-
-Desenvolvimento para mim é:
-
-> Resolver problemas com estrutura, lógica e visão estratégica.
-
----
-
-# 🎯 Objetivo
-
-Busco oportunidade como:
-
-🚀 Full Stack Developer Júnior  
-🚀 Back-end Developer  
-🚀 Estágio em Engenharia de Software  
-
-Ambientes que valorizem:
-
-• Arquitetura  
-• Clean Code  
-• Performance  
-• Escalabilidade  
-• Produto  
-
----
-
-# 📬 Contato
-
-<p align="center">
-  <a href="mailto:rodriguesvitorkaue@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/vitor-kau%C3%AA-04bb13215">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-<h2 align="center">
-💡 Building Systems. Not Just Code.
-</h2>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
-</p>
+* LinkedIn: [adicionar link]
+* E-mail: [rodriguesvitorkaue@gmail.com](mailto:rodriguesvitorkaue@gmail.com)
