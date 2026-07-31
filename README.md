@@ -83,5 +83,5 @@ Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento Back-
 
 ## Contato
 
-* LinkedIn: [adicionar link]
+* LinkedIn: [Vitor Kauê](https://www.linkedin.com/in/vitor-kauê-04bb13215/)
 * E-mail: [rodriguesvitorkaue@gmail.com](mailto:rodriguesvitorkaue@gmail.com)
