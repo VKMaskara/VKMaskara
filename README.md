@@ -2,86 +2,115 @@
 
 **Desenvolvedor Back-end em formação | Node.js | JavaScript | APIs REST**
 
-Sou Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software. Desenvolvo projetos próprios para aplicar, na prática, fundamentos de arquitetura de software, modelagem de dados, integração de APIs e organização de regras de negócio.
+Sou Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
 
-Atualmente, meu foco principal está no desenvolvimento Back-end com **Node.js, Express.js, PostgreSQL, Knex.js e APIs REST**, além de conhecimentos em React para construção de aplicações Full Stack.
+Meu foco é construir aplicações que resolvam problemas reais, aplicando Engenharia de Software desde o levantamento de requisitos até a implementação e documentação.
 
-## Projetos em destaque
+Atualmente desenvolvo projetos próprios para fortalecer minha experiência em arquitetura de software, desenvolvimento Back-end e sistemas web.
 
-### Navalhou
+---
 
-Sistema de agendamento e gerenciamento de barbearias, desenvolvido a partir do levantamento de uma necessidade real.
+# 🚀 Projetos em Destaque
 
-O projeto contempla:
+## Navalhou
 
-* levantamento e documentação de requisitos;
-* definição de regras de negócio e casos de uso;
-* modelagem de banco de dados;
-* arquitetura de API REST;
-* gerenciamento de barbearias, profissionais, clientes, serviços e agendamentos;
-* agenda individual por profissional.
+Sistema SaaS para gerenciamento de barbearias.
 
-**Tecnologias:** Node.js, Express.js, PostgreSQL, Knex.js, JavaScript e React.
+### Principais funcionalidades
 
-### R.O.M.A — Rotas Otimizadas de Milha Ágil
+- Gerenciamento de clientes
+- Gerenciamento de barbeiros
+- Agendamentos
+- Gestão de serviços
+- Agenda por profissional
+- API REST
+- Modelagem de Banco de Dados
 
-Sistema web para criação, gestão e otimização de rotas de entrega.
+**Stack**
 
-O projeto inclui:
+Node.js • Express • PostgreSQL • Knex • JavaScript
 
-* API REST com Node.js e Express.js;
-* arquitetura organizada em controllers, services, models e routes;
-* autenticação com JWT;
-* banco de dados SQLite utilizando Knex.js;
-* importação de planilhas;
-* integração com serviços de mapas e geolocalização;
-* aplicação de algoritmos de otimização de rotas.
+---
 
-**Tecnologias:** Node.js, Express.js, Knex.js, SQLite, JWT, JavaScript, Bootstrap e Leaflet.
+## R.O.M.A.
 
-### Software Engineering Roadmap
+Sistema de otimização de rotas para empresas de entrega.
 
-Repositório no qual documento minha evolução nos fundamentos de Engenharia de Software.
+### Destaques
 
-Os estudos são organizados em:
+- API REST
+- Autenticação JWT
+- Upload de planilhas
+- Algoritmos de otimização
+- Integração com APIs de mapas
+- Arquitetura MVC
 
-* teoria;
-* exemplos;
-* exercícios;
-* desafios práticos;
-* revisões semanais.
+**Stack**
 
-## Tecnologias
+Node.js • Express • Knex • SQLite • JWT • Bootstrap
 
-**Back-end**
+---
 
-JavaScript • Node.js • Express.js • APIs REST • Knex.js
+## Software Engineering Roadmap
 
-**Front-end**
+Repositório onde documento minha evolução em Engenharia de Software através de estudos, desafios, exercícios e projetos.
 
-HTML5 • CSS3 • React • Bootstrap
+---
 
-**Banco de dados**
+# 💻 Tecnologias
 
-PostgreSQL • MySQL • SQLite • MongoDB • SQL • Modelagem de Dados
+### Back-end
 
-**Ferramentas e fundamentos**
+- Node.js
+- Express.js
+- JavaScript
+- REST APIs
+- Knex.js
 
-Git • GitHub • Arquitetura MVC • Engenharia de Software • Integração de APIs • TCP/IP
+### Front-end
 
-## Formação
+- React
+- HTML5
+- CSS3
+- Bootstrap
+
+### Banco de Dados
+
+- PostgreSQL
+- MySQL
+- SQLite
+- MongoDB
+
+### Ferramentas
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+# 🎓 Formação
 
 **Engenharia de Software**
-Universidade Pitágoras Unopar Anhanguera — cursando
+
+Universidade Pitágoras Unopar Anhanguera
 
 **Técnico em Desenvolvimento de Sistemas**
-ETEC José Miguel Soares — concluído
 
-## Objetivo profissional
+ETEC José Miguel Soares
 
-Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento Back-end ou Full Stack, na qual eu possa contribuir com projetos reais e continuar evoluindo em Node.js, APIs, bancos de dados e Engenharia de Software.
+---
 
-## Contato
+# 🎯 Objetivo
 
-* LinkedIn: [Vitor Kauê](https://www.linkedin.com/in/vitor-kauê-04bb13215/)
-* E-mail: [rodriguesvitorkaue@gmail.com](mailto:rodriguesvitorkaue@gmail.com)
+Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento Back-end ou Full Stack para continuar evoluindo tecnicamente e contribuir com projetos reais.
+
+---
+
+# 📫 Contato
+
+📧 rodriguesvitorkaue@gmail.com
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/vitor-kauê-04bb13215
