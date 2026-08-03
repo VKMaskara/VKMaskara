@@ -1,18 +1,14 @@
 # Olá, eu sou o Vitor Kauê 👋
 
-**Desenvolvedor Back-end em formação | Node.js | JavaScript | APIs REST**
+**Estudante de Engenharia de Software | Desenvolvimento Back-end | Node.js | JavaScript | APIs REST**
 
-Sou Técnico em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
-
-Meu foco é construir aplicações que resolvam problemas reais, aplicando Engenharia de Software desde o levantamento de requisitos até a implementação e documentação.
-
-Atualmente desenvolvo projetos próprios para fortalecer minha experiência em arquitetura de software, desenvolvimento Back-end e sistemas web.
+Estudante de Engenharia de Software e técnico em Desenvolvimento de Sistemas, com foco em desenvolvimento Back-end utilizando JavaScript, Node.js, Express, APIs REST e bancos de dados relacionais. Desenvolvo projetos aplicando requisitos, regras de negócio, arquitetura em camadas, modelagem de dados e Git. Busco estágio em Desenvolvimento Back-end, Engenharia de Software ou Sistemas.
 
 ---
 
 # 🚀 Projetos em Destaque
 
-## Navalhou
+## Navalhou - Em desenvolvimento 🟡
 
 Sistema SaaS para gerenciamento de barbearias.
 
@@ -30,9 +26,11 @@ Sistema SaaS para gerenciamento de barbearias.
 
 Node.js • Express • PostgreSQL • Knex • JavaScript
 
+[Ver mais](https://github.com/VKMaskara/Navalhou-Agendamentos.git)
+
 ---
 
-## R.O.M.A.
+## R.O.M.A. 
 
 Sistema de otimização de rotas para empresas de entrega.
 
@@ -49,12 +47,14 @@ Sistema de otimização de rotas para empresas de entrega.
 
 Node.js • Express • Knex • SQLite • JWT • Bootstrap
 
+[Ver mais](https://github.com/VKMaskara/R.O.M.A_Otimizador-Rotas.git)
 ---
 
 ## Software Engineering Roadmap
 
 Repositório onde documento minha evolução em Engenharia de Software através de estudos, desafios, exercícios e projetos.
 
+[Ver mais](https://github.com/VKMaskara/software-engineering-roadmap.git)
 ---
 
 # 💻 Tecnologias
@@ -69,16 +69,22 @@ Repositório onde documento minha evolução em Engenharia de Software através 
 
 ### Front-end
 
-- React
 - HTML5
 - CSS3
-- Bootstrap
+- Bootstrap 
 
 ### Banco de Dados
 
 - PostgreSQL
-- MySQL
 - SQLite
+- SQL
+
+## Conhecimentos acadêmicos
+
+- Python
+- React,
+- Next.js
+- MySQL
 - MongoDB
 
 ### Ferramentas
@@ -98,6 +104,20 @@ Universidade Pitágoras Unopar Anhanguera
 **Técnico em Desenvolvimento de Sistemas**
 
 ETEC José Miguel Soares
+
+# 🎓 Certificações
+
+**AZ-900 - Microsoft**
+
+Senai
+
+**IA-900 - Microsoft**
+
+Senai
+
+**CCNA7 TCP/IP **
+
+Senai
 
 ---
 
