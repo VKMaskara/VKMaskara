@@ -26,7 +26,7 @@ Sistema SaaS para gerenciamento de barbearias.
 
 Node.js • Express • PostgreSQL • Knex • JavaScript
 
-[Ver mais](https://github.com/VKMaskara/Navalhou-Agendamentos.git)
+[Ver mais](https://github.com/VKMaskara/Navalhou-Agendamentos)
 
 ---
 
@@ -47,14 +47,14 @@ Sistema de otimização de rotas para empresas de entrega.
 
 Node.js • Express • Knex • SQLite • JWT • Bootstrap
 
-[Ver mais](https://github.com/VKMaskara/R.O.M.A_Otimizador-Rotas.git)
+[Ver mais](https://github.com/VKMaskara/R.O.M.A_Otimizador-Rotas)
 ---
 
 ## Software Engineering Roadmap
 
 Repositório onde documento minha evolução em Engenharia de Software através de estudos, desafios, exercícios e projetos.
 
-[Ver mais](https://github.com/VKMaskara/software-engineering-roadmap.git)
+[Ver mais](https://github.com/VKMaskara/software-engineering-roadmap)
 ---
 
 # 💻 Tecnologias
@@ -105,25 +105,16 @@ Universidade Pitágoras Unopar Anhanguera
 
 ETEC José Miguel Soares
 
-# 🎓 Certificações
+# 🏅 Certificações
 
-**AZ-900 - Microsoft**
-
-Senai
-
-**IA-900 - Microsoft**
-
-Senai
-
-**CCNA7 TCP/IP **
-
-Senai
-
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Cisco Networking Academy: CCNA 7 – Fundamentos de Redes e TCP/IP
 ---
 
 # 🎯 Objetivo
 
-Busco uma oportunidade de estágio ou posição júnior em Desenvolvimento Back-end ou Full Stack para continuar evoluindo tecnicamente e contribuir com projetos reais.
+Busco uma oportunidade de estágio em Desenvolvimento Back-end, Engenharia de Software ou Sistemas, onde possa aplicar meus conhecimentos na construção de APIs, regras de negócio e integração com bancos de dados.
 
 ---
 
